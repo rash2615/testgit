@@ -31,4 +31,4 @@ Cette visualisation a été inspirée par la page d'accueil de Spotify et utilis
 
 ## Contact 
 
-Pour contacter au sujet du projet, voici nos profils Github : rash2615 et yannickLEMA
+Pour contacter au sujet du projet, voici nos profils Github : rash2615 et yannickLema
